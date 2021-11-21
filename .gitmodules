@@ -1,0 +1,3 @@
+[submodule "qc-and-preprocessing/seq-contamination-QC-nf"]
+	path = qc-and-preprocessing/seq-contamination-QC-nf
+	url = https://github.com/AgBC-UoP/seq-contamination-QC-nf

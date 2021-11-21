@@ -1,0 +1,103 @@
+Thu Sep  9 10:14:37 2021: Running validation tests on input files
+Thu Sep  9 10:16:25 2021: Finished validating - Submitting job to queue
+Thu Sep  9 10:16:28 2021: Job 1631182113 was submitted to queue.
+Thu Sep  9 13:16:35 2021: Job 1631182113 started running.
+Thu Sep  9 13:16:36 2021: Job Parameters:
+Thu Sep  9 13:16:36 2021: Input file: populations_Harvester_Upload.zip
+Thu Sep  9 13:16:36 2021: Input type: STRUCTURE
+Thu Sep  9 13:16:36 2021: CLUMPP search method: LargeKGreedy 
+Thu Sep  9 13:16:36 2021: MCL cluster size threshold: 0.1 (default)
+Thu Sep  9 13:16:36 2021: Extracting file: "populations_Harvester_Upload.zip".
+Thu Sep  9 13:17:10 2021: Sorting input files by K
+Thu Sep  9 13:18:00 2021: Working on K=1
+Thu Sep  9 13:18:00 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:18:05 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:18:05 2021: Executing CLUMPP for K=1.
+Thu Sep  9 13:18:05 2021: Clustering K=1 with mcl.
+Thu Sep  9 13:18:05 2021: no cutoff was used
+Thu Sep  9 13:18:05 2021: Executing CLUMPP for major cluster.
+Thu Sep  9 13:18:13 2021: Calculating major cluster LnProb mean and standard deviation.
+Thu Sep  9 13:18:13 2021: LnProb mean: -1038826.51
+Thu Sep  9 13:18:13 2021: LnProb standard deviation: 161.127385423253
+Thu Sep  9 13:18:13 2021: Working on K=2
+Thu Sep  9 13:18:13 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:18:19 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:18:19 2021: Executing CLUMPP for K=2.
+Thu Sep  9 13:18:19 2021: Clustering K=2 with mcl.
+Thu Sep  9 13:18:19 2021: no cutoff was used
+Thu Sep  9 13:18:19 2021: Executing CLUMPP for major cluster.
+Thu Sep  9 13:18:27 2021: Calculating major cluster LnProb mean and standard deviation.
+Thu Sep  9 13:18:27 2021: LnProb mean: -1032745.36
+Thu Sep  9 13:18:27 2021: LnProb standard deviation: 6046.08770513809
+Thu Sep  9 13:18:27 2021: Working on K=3
+Thu Sep  9 13:18:27 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:18:33 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:18:33 2021: Executing CLUMPP for K=3.
+Thu Sep  9 13:18:33 2021: Clustering K=3 with mcl.
+Thu Sep  9 13:18:33 2021: no cutoff was used
+Thu Sep  9 13:18:33 2021: Executing CLUMPP for major cluster.
+Thu Sep  9 13:18:42 2021: Calculating major cluster LnProb mean and standard deviation.
+Thu Sep  9 13:18:42 2021: LnProb mean: -1126497.63
+Thu Sep  9 13:18:42 2021: LnProb standard deviation: 162583.480629327
+Thu Sep  9 13:18:42 2021: Working on K=4
+Thu Sep  9 13:18:42 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:18:50 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:18:50 2021: Executing CLUMPP for K=4.
+Thu Sep  9 13:18:50 2021: Clustering K=4 with mcl.
+Thu Sep  9 13:18:50 2021: cutoff used: 0.62
+Thu Sep  9 13:18:50 2021: Executing CLUMPP for major cluster.
+Thu Sep  9 13:18:58 2021: Calculating major cluster LnProb mean and standard deviation.
+Thu Sep  9 13:18:58 2021: LnProb mean: -1809432.2125
+Thu Sep  9 13:18:58 2021: LnProb standard deviation: 494773.495991072
+Thu Sep  9 13:18:58 2021: Executing CLUMPP for minor clusters.
+Thu Sep  9 13:19:00 2021: Calculating MinorCluster1 LnProb mean and standard deviation.
+Thu Sep  9 13:19:00 2021: LnProb mean: -10855684
+Thu Sep  9 13:19:00 2021: LnProb standard deviation: 140392.657292039
+Thu Sep  9 13:19:00 2021: Working on K=5
+Thu Sep  9 13:19:00 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:19:06 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:19:06 2021: Executing CLUMPP for K=5.
+Thu Sep  9 13:19:07 2021: Clustering K=5 with mcl.
+Thu Sep  9 13:19:07 2021: cutoff used: 0.66
+Thu Sep  9 13:19:07 2021: Executing CLUMPP for major cluster.
+Thu Sep  9 13:19:15 2021: Calculating major cluster LnProb mean and standard deviation.
+Thu Sep  9 13:19:15 2021: LnProb mean: -7633410.31111111
+Thu Sep  9 13:19:15 2021: LnProb standard deviation: 6397471.86541451
+Thu Sep  9 13:19:15 2021: Executing CLUMPP for minor clusters.
+Thu Sep  9 13:19:16 2021: Calculating MinorCluster1 LnProb mean and standard deviation.
+Thu Sep  9 13:19:16 2021: LnProb mean: -16683508.9
+Thu Sep  9 13:19:16 2021: LnProb standard deviation: 0
+Thu Sep  9 13:19:16 2021: Working on K=6
+Thu Sep  9 13:19:16 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:19:22 2021: calling ExtractIndTableFromStructureFiles
+Thu Sep  9 13:19:22 2021: Executing CLUMPP for K=6.
+Thu Sep  9 13:19:23 2021: Clustering K=6 with mcl.
+Thu Sep  9 13:19:23 2021: cutoff used: 0.60
+Thu Sep  9 13:19:23 2021: Executing CLUMPP for major cluster.
+Thu Sep  9 13:19:30 2021: Calculating major cluster LnProb mean and standard deviation.
+Thu Sep  9 13:19:30 2021: LnProb mean: -25433461.8
+Thu Sep  9 13:19:30 2021: LnProb standard deviation: 11062946.5648413
+Thu Sep  9 13:19:30 2021: Executing CLUMPP for minor clusters.
+Thu Sep  9 13:19:32 2021: Calculating MinorCluster1 LnProb mean and standard deviation.
+Thu Sep  9 13:19:32 2021: LnProb mean: -7363348.2
+Thu Sep  9 13:19:32 2021: LnProb standard deviation: 7593844.4416974
+Thu Sep  9 13:19:32 2021: Ordering clusters by size for K=1
+Thu Sep  9 13:19:32 2021: Calling distruct for K=1.MajorCluster
+Thu Sep  9 13:19:32 2021: Calculating best Average Distance between K=1 and K=2..
+Thu Sep  9 13:19:32 2021: Calling distruct for K=2.MajorCluster
+Thu Sep  9 13:19:33 2021: Calculating best Average Distance between K=2 and K=3..
+Thu Sep  9 13:19:33 2021: Calling distruct for K=3.MajorCluster
+Thu Sep  9 13:19:34 2021: Calculating best Average Distance between K=3 and K=4..
+Thu Sep  9 13:19:34 2021: Calling distruct for K=4.MajorCluster
+Thu Sep  9 13:19:35 2021: Calculating best Average Distance between K=4 and K=5..
+Thu Sep  9 13:19:35 2021: Calling distruct for K=5.MajorCluster
+Thu Sep  9 13:19:35 2021: Calculating best Average Distance between K=5 and K=6..
+Thu Sep  9 13:19:35 2021: Calling distruct for K=6.MajorCluster
+Thu Sep  9 13:19:36 2021: Calculating best Average Distance between large cluster and K=4.MinorCluster1..
+Thu Sep  9 13:19:36 2021: Calling distruct for K=4.MinorCluster1
+Thu Sep  9 13:19:37 2021: Calculating best Average Distance between large cluster and K=5.MinorCluster1..
+Thu Sep  9 13:19:37 2021: Calling distruct for K=5.MinorCluster1
+Thu Sep  9 13:19:37 2021: Calculating best Average Distance between large cluster and K=6.MinorCluster1..
+Thu Sep  9 13:19:38 2021: Calling distruct for K=6.MinorCluster1
+Thu Sep  9 13:19:38 2021: Creating job summary PDF
+Thu Sep  9 13:19:39 2021: Creating job zip file
