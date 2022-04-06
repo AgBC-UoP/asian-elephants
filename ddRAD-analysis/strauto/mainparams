@@ -1,7 +1,7 @@
 Basic program parameters
 #define MAXPOPS 	 10
-#define BURNIN  	 1000
-#define NUMREPS 	 5000
+#define BURNIN  	 50000
+#define NUMREPS 	 100000
 
 Input file
 #define INFILE 	 populations.str

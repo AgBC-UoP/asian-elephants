@@ -32,7 +32,7 @@ mkdir harvester_input
 cp results_f/k*/*_f harvester_input
 echo 'Your structure run has finished.'
 # Run structureHarvester
-python2 /tools/structureHarvester/structureHarvester.py --dir harvester_input --out harvester --evanno --clumpp
+/home/shyaman/tools/structureHarvester/structureHarvester.py --dir harvester_input --out harvester --evanno --clumpp
 echo 'structureHarvester run has finished.'
 #Clean up harvester input files.
 zip populations_Harvester_Upload.zip harvester_input/*
